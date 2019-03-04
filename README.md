@@ -1,2 +1,2 @@
 # aws-with-python
-This automates AWS with Python using the ACG course.
+This automates AWS with Python3 using the ACG course.
